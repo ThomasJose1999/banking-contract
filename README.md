@@ -4,7 +4,7 @@
 1. open ganache UI
 2. ```truffle compile```
 3. ```truffle migrate```
-4. ```truffle migrate reset```
+4. ```truffle migrate --reset```
 5. ```npm run dev```
 
 
